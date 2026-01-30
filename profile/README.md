@@ -10,18 +10,18 @@ Willkommen beim GitHub der Abteilung **Digitale Immobilien und Support (DRES)** 
 
 ### Über uns
 
-Das BBL ist das Immobilien-Kompetenzzentrum der zivilen Bundesverwaltung und bewirtschaftet über 2'700 Liegenschaften im In- und Ausland. Die Abteilung DRES entwickelt digitale Lösungen für das Immobilienmanagement des Bundes.
+Das BBL ist das Immobilien-Kompetenzzentrum der zivilen Bundesverwaltung und bewirtschaftet über 2'700 Liegenschaften im In- und Ausland. Die Abteilung DRES konzipiert digitale Lösungen für das Immobilienmanagement des Bundes.
 
 ### Schwerpunkte
 
-- 🏢 **Digitales Immobilienmanagement** – Anwendungen zur Verwaltung und Visualisierung des Bundesimmobilienportfolios
-- 🗺️ **GIS & Geodaten** – Interaktive Kartenanwendungen und räumliche Datenvisualisierung
-- 🔧 **BIM & Bautechnik** – Building Information Modeling und technische Datenkataloge
+- **Digitales Immobilienmanagement** – Anwendungen zur Verwaltung und Visualisierung des Bundesimmobilienportfolios
+- **GIS & Geodaten** – Interaktive Kartenanwendungen und räumliche Datenvisualisierung
+- **BIM & Bautechnik** – Building Information Modeling und technische Datenkataloge
 
 ### Kontakt
 
-- 🌐 [www.bbl.admin.ch](https://www.bbl.admin.ch/)
-- 📧 info@bbl.admin.ch
+- [www.bbl.admin.ch](https://www.bbl.admin.ch/)
+- info@bbl.admin.ch
 
 ---
 
@@ -35,9 +35,9 @@ L'OFCL est le centre de compétences immobilières de l'administration fédéral
 
 ### Domaines d'activité
 
-- 🏢 **Gestion immobilière numérique** – Applications pour la gestion et la visualisation du portefeuille immobilier fédéral
-- 🗺️ **SIG & Géodonnées** – Applications cartographiques interactives et visualisation de données spatiales
-- 🔧 **BIM & Technique du bâtiment** – Building Information Modeling et catalogues de données techniques
+- **Gestion immobilière numérique** – Applications pour la gestion et la visualisation du portefeuille immobilier fédéral
+- **SIG & Géodonnées** – Applications cartographiques interactives et visualisation de données spatiales
+- **BIM & Technique du bâtiment** – Building Information Modeling et catalogues de données techniques
 
 ---
 
@@ -51,9 +51,9 @@ L'UFCL è il centro di competenza immobiliare dell'Amministrazione federale civi
 
 ### Aree di attività
 
-- 🏢 **Gestione immobiliare digitale** – Applicazioni per la gestione e la visualizzazione del portafoglio immobiliare federale
-- 🗺️ **GIS & Geodati** – Applicazioni cartografiche interattive e visualizzazione di dati spaziali
-- 🔧 **BIM & Tecnica edilizia** – Building Information Modeling e cataloghi di dati tecnici
+- **Gestione immobiliare digitale** – Applicazioni per la gestione e la visualizzazione del portafoglio immobiliare federale
+- **GIS & Geodati** – Applicazioni cartografiche interattive e visualizzazione di dati spaziali
+- **BIM & Tecnica edilizia** – Building Information Modeling e cataloghi di dati tecnici
 
 ---
 
@@ -67,9 +67,9 @@ The BBL is the real estate competency center for the Swiss federal civil adminis
 
 ### Focus areas
 
-- 🏢 **Digital Real Estate Management** – Applications for managing and visualizing the federal real estate portfolio
-- 🗺️ **GIS & Geodata** – Interactive mapping applications and spatial data visualization
-- 🔧 **BIM & Building Technology** – Building Information Modeling and technical data catalogs
+- **Digital Real Estate Management** – Applications for managing and visualizing the federal real estate portfolio
+- **GIS & Geodata** – Interactive mapping applications and spatial data visualization
+- **BIM & Building Technology** – Building Information Modeling and technical data catalogs
 
 ---
 
