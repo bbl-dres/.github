@@ -17,6 +17,8 @@ Das BBL ist das Immobilien-Kompetenzzentrum der zivilen Bundesverwaltung und bew
 - **Digitales Immobilienmanagement** – Anwendungen zur Verwaltung und Visualisierung des Bundesimmobilienportfolios
 - **GIS & Geodaten** – Interaktive Kartenanwendungen und räumliche Datenvisualisierung
 - **BIM & Bautechnik** – Building Information Modeling und technische Datenkataloge
+- **Unternehmensarchitektur & Standards** – Architekturrichtlinien und technische Standards für Immobiliendaten
+- **Data Governance & Datenmanagement** – Datenqualität, -steuerung und operative Datenprozesse
 
 ### Kontakt
 
@@ -38,6 +40,8 @@ L'OFCL est le centre de compétences immobilières de l'administration fédéral
 - **Gestion immobilière numérique** – Applications pour la gestion et la visualisation du portefeuille immobilier fédéral
 - **SIG & Géodonnées** – Applications cartographiques interactives et visualisation de données spatiales
 - **BIM & Technique du bâtiment** – Building Information Modeling et catalogues de données techniques
+- **Architecture d'entreprise & Standards** – Directives architecturales et standards techniques pour les données immobilières
+- **Gouvernance des données & Gestion des données** – Qualité des données, pilotage et processus opérationnels
 
 ---
 
@@ -54,6 +58,8 @@ L'UFCL è il centro di competenza immobiliare dell'Amministrazione federale civi
 - **Gestione immobiliare digitale** – Applicazioni per la gestione e la visualizzazione del portafoglio immobiliare federale
 - **GIS & Geodati** – Applicazioni cartografiche interattive e visualizzazione di dati spaziali
 - **BIM & Tecnica edilizia** – Building Information Modeling e cataloghi di dati tecnici
+- **Architettura aziendale & Standard** – Linee guida architetturali e standard tecnici per i dati immobiliari
+- **Data Governance & Gestione dei dati** – Qualità dei dati, governance e processi operativi
 
 ---
 
@@ -70,6 +76,8 @@ The BBL is the real estate competency center for the Swiss federal civil adminis
 - **Digital Real Estate Management** – Applications for managing and visualizing the federal real estate portfolio
 - **GIS & Geodata** – Interactive mapping applications and spatial data visualization
 - **BIM & Building Technology** – Building Information Modeling and technical data catalogs
+- **Enterprise Architecture & Standards** – Architectural guidelines and technical standards for real estate data
+- **Data Governance & Data Management** – Data quality, stewardship, and operational data processes
 
 ---
 
