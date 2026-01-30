@@ -1,4 +1,4 @@
-<img src="profile\Banner Digitale Bundesverwaltung.jpg" alt="Banner Digitale Bundesverwaltung">
+<img src="profile/Banner Digitale Bundesverwaltung.jpg" alt="Banner Digitale Bundesverwaltung">
 
 
 # Digital Real Estate and Support (DRES)
