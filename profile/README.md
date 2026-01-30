@@ -1,6 +1,5 @@
 <img src="Banner Digitale Bundesverwaltung.jpg" alt="Banner Digitale Bundesverwaltung">
 
-
 # Digital Real Estate and Support (DRES)
 
 **Deutsch** | [Français](#français) | [Italiano](#italiano) | [English](#english)
